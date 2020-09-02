@@ -1,0 +1,17 @@
+{
+  "name": "v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[Av1\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.12"
+  }
+}
